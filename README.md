@@ -16,3 +16,9 @@ I work with these technologies the most!
   <summary>:gear: My Stats</summary>
   <img align="left" alt="Chris MacDonald's Stats" src="https://github-readme-stats-swart-nine.vercel.app/api?username=chrismacdonaldw&show_icons=true&hide_border=true&hide=issues,contribs"/>
 </details>
+
+My favorite pastimes:
+- :chess_pawn: Learning chess
+- :video_game: Playing competitive video games
+- :robot: Programming and learning about it
+- :desktop_computer: Watching a variety of Twitch Streamers
