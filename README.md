@@ -24,3 +24,5 @@ My favorite pastimes:
 - :video_game: Playing competitive video games
 - :robot: Programming and learning new technologies
 - :desktop_computer: Watching a variety of Twitch Streamers
+
+[![Spotify](novatorem-eosin-theta.vercel.app/api/spotify)](https://open.spotify.com/user/12159729364)
