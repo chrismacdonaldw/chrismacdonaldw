@@ -19,5 +19,4 @@ I'm a 22 year old Software Developer! I have a lot of experience working with Fl
 My favorite pastimes:
 - :chess_pawn: Learning chess
 - :video_game: Playing competitive video games
-- :robot: Programming and learning new technologies
-- :desktop_computer: Watching a variety of Twitch Streamers
+- :desktop_computer: Programming and learning new technologies
