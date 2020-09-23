@@ -1,7 +1,9 @@
 <link rel="stylesheet" type="text/css" href="css/readme.css" />
 
 ### Hello there, my name is Chris! 👋
-I work with these technologies the most!
+I'm a 22 year old Software Developer! I have a lot of experience working with Flutter and Dart developing mobile applications, and I am graduating May 2021 from the University of Prince Edward Island with Bachelors of Science, majoring in Computer Science with a minor in Mathematics!
+
+### I work with these technologies the most!
 
 <img align="left" alt="C++" width="26px" src="icons/cplusplus.svg" />
 <img align="left" alt="Dart" width="26px" src="icons/dart.svg" />
@@ -20,5 +22,5 @@ I work with these technologies the most!
 My favorite pastimes:
 - :chess_pawn: Learning chess
 - :video_game: Playing competitive video games
-- :robot: Programming and learning about it
+- :robot: Programming and learning new technologies
 - :desktop_computer: Watching a variety of Twitch Streamers
