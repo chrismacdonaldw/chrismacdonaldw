@@ -14,7 +14,7 @@ I'm a 22 year old Software Developer! I have a lot of experience working with Fl
 [<img align="left" alt="Python" width="26px" src="icons/python.svg" />][python]
 [<img align="left" alt="Visual Studio Code" width="26px" src="icons/visualstudiocode.svg" />][vscode]
 <br><br>
-<img align="left" alt="Chris MacDonald's Stats" src="https://github-readme-stats-swart-nine.vercel.app/api?username=chrismacdonaldw&show_icons=true&count_private=trueshow_icons=true&hide_border=true&hide=issues,contribs"/>
+<img align="left" alt="Chris MacDonald's Stats" src="https://github-readme-stats-swart-nine.vercel.app/api?username=chrismacdonaldw&show_icons=true&count_private=trueshow_icons=true&hide_border=true&hide=issues,contribs&theme=tokyonight"/>
 
 My favorite pastimes:
 - :chess_pawn: Learning chess
