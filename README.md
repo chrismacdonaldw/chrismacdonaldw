@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="css/readme.css" />
 
 ### Hello there, my name is Chris! 👋
-I'm a 22 year old Software Developer! I have a lot of experience working with Flutter and Dart developing mobile applications. Graduate from the University of Prince Edward Island with a Major in Computer Sciences and a Minor in Mathematics.
+I'm a 23 year old Software Developer! I have a lot of experience working with Flutter and Dart developing mobile applications. Graduate from the University of Prince Edward Island with a Major in Computer Sciences and a Minor in Mathematics.
 
 ### I work with these technologies the most!
 
