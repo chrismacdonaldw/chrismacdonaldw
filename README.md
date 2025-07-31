@@ -1,31 +1,32 @@
-<link rel="stylesheet" type="text/css" href="css/readme.css" />
+# Chris MacDonald // Drupal Developer
 
-### Hello there, my name is Chris! 👋
-I'm a 25 year old Software Developer! I have a lot of experience working with Flutter and Dart developing mobile applications. Graduate from the University of Prince Edward Island with a Major in Computer Sciences and a Minor in Mathematics.
+<p>
+  <a href="https://www.linkedin.com/in/chrismacdonaldw/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:business@chrismac.dev"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-### I work with these technologies the most!
+---
 
-[<img align="left" alt="C++" width="26px" src="icons/cplusplus.svg" />][cpp]
-[<img align="left" alt="Dart" width="26px" src="icons/dart.svg" />][dart]
-[<img align="left" alt="Django" width="26px" src="icons/django.svg" />][django]
-[<img align="left" alt="Flutter" width="26px" src="icons/flutter.svg" />][flutter]
-[<img align="left" alt="Git" width="26px" src="icons/git.svg" />][git]
-[<img align="left" alt="Java" width="26px" src="icons/java.svg" />][java]
-[<img align="left" alt="Python" width="26px" src="icons/python.svg" />][python]
-[<img align="left" alt="Visual Studio Code" width="26px" src="icons/visualstudiocode.svg" />][vscode]
-<br><br>
-<img align="left" alt="Chris MacDonald's Stats" src="https://github-readme-stats-swart-nine.vercel.app/api?username=chrismacdonaldw&show_icons=true&count_private=trueshow_icons=true&hide_border=true&hide=issues,contribs&theme=tokyonight"/>
+### // What I Work With
 
-My favorite pastimes:
-- :chess_pawn: Learning chess
-- :video_game: Playing competitive video games
-- :desktop_computer: Programming and learning new technologies
+<p>
+  <a href="https://www.drupal.org/"><img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal"/></a>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+</p>
+<p>
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+</p>
 
-[cpp]: https://www.cplusplus.com/
-[dart]: https://dart.dev/guides
-[django]: https://docs.djangoproject.com/en/3.1/
-[flutter]: https://flutter.dev/docs
-[git]: https://git-scm.com/doc
-[java]: https://docs.oracle.com/en/java/
-[python]: https://docs.python.org/3/
-[vscode]: https://code.visualstudio.com/
+---
+
+### // Other Interests
+
+<p>
+  <img src="https://img.shields.io/badge/CS2-21k-D800EF?style=for-the-badge&logo=counterstrike&logoColor=white" alt="CS2 Premier Rank"/>
+  <img src="https://img.shields.io/badge/FACEIT-1850_Elo-FF5500?style=for-the-badge&logo=faceit&logoColor=white" alt="CS2 FACEIT Rank"/>
+  <img src="https://img.shields.io/badge/NBA-Lakers-552583?style=for-the-badge&logo=nba&logoColor=white" alt="Lakers Fan"/>
+</p>
