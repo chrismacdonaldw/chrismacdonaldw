@@ -31,4 +31,8 @@
   <img src="https://img.shields.io/badge/NBA-Lakers-552583?style=for-the-badge&logo=nba&logoColor=white" alt="Lakers Fan"/>
 </p>
 
-<p>| Profile art by the incredible <a href="https://www.artstation.com/kuvshinov_ilya">Ilya Kuvshinov</a> |</p>
+<p>
+  <a href="https://www.artstation.com/kuvshinov_ilya">
+    <img src="https://img.shields.io/badge/Profile_Art_by-Ilya_Kuvshinov-160026?style=for-the-badge&logo=artstation&logoColor=white" alt="Profile Art by Ilya Kuvshinov"/>
+  </a>
+</p>
