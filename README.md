@@ -30,3 +30,5 @@
   <img src="https://img.shields.io/badge/FACEIT-1850_Elo-FF5500?style=for-the-badge&logo=faceit&logoColor=white" alt="CS2 FACEIT Rank"/>
   <img src="https://img.shields.io/badge/NBA-Lakers-552583?style=for-the-badge&logo=nba&logoColor=white" alt="Lakers Fan"/>
 </p>
+
+<p>| Profile art by the incredible <a href="https://www.artstation.com/kuvshinov_ilya">Ilya Kuvshinov</a> |</p>
